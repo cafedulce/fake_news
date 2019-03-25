@@ -1,5 +1,3 @@
-# fake_news
-
 # Milestone 1
 
 ### Title
